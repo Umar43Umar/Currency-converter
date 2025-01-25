@@ -1,4 +1,4 @@
-const BASE_URl= https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@1/latest/currencies"
+const BASE_URl= "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@1/latest/currencies"
 
 const dropdowns = document.querySelectorAll(".dropdown select")
 const btn = document.querySelector("form button")
